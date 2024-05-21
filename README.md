@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tmadi626
 - 👀 I’m interested in learning tech and solving problems
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on a project I could help **you**  with
+- 🤩 I’m looking to collaborate on a project I could help **you**  with
 - 📫 How to reach me _taha.madi07@gmail.com_
 
 <!---
